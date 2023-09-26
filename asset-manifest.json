@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MaleFashion/static/css/main.83cef759.css",
-    "main.js": "/MaleFashion/static/js/main.79f3be6c.js",
+    "main.js": "/MaleFashion/static/js/main.63c56af5.js",
     "static/media/about-us.jpg": "/MaleFashion/static/media/about-us.05b80316a13651a25137.jpg",
     "static/media/hero-1.jpg": "/MaleFashion/static/media/hero-1.c081bcff664751bf4f02.jpg",
     "static/media/empty-shopping.jpg": "/MaleFashion/static/media/empty-shopping.a10c4f68e1ba633358c1.jpg",
@@ -10,10 +10,10 @@
     "static/media/banner-3.jpg": "/MaleFashion/static/media/banner-3.902e072bfedc4a1cabdf.jpg",
     "index.html": "/MaleFashion/index.html",
     "main.83cef759.css.map": "/MaleFashion/static/css/main.83cef759.css.map",
-    "main.79f3be6c.js.map": "/MaleFashion/static/js/main.79f3be6c.js.map"
+    "main.63c56af5.js.map": "/MaleFashion/static/js/main.63c56af5.js.map"
   },
   "entrypoints": [
     "static/css/main.83cef759.css",
-    "static/js/main.79f3be6c.js"
+    "static/js/main.63c56af5.js"
   ]
 }
